@@ -53,11 +53,9 @@ simon-game/
 
 ## 📸 Screenshots
 
-### Gameplay
-![Game Start](startgame.jpg)
-
-### Game Over Screen
-![Game Over](endgame.jpg)
+### Gameplay 
+sart game 
+end game 
 
 ---
 
