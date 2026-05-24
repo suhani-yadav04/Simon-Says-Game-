@@ -20,7 +20,7 @@ Players must correctly repeat the randomly generated sequence of colors to advan
 
 ## 🚀 Live Demo
 
-Play it here: [Simon Game Demo](https://suhani-yadav04.github.io/simon-game/)
+Play it here: [Simon Game Demo](https://github.com/suhani-yadav04/Simon-Says-Game-.git)
 
 ---
 
