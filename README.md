@@ -20,7 +20,7 @@ Players must correctly repeat the randomly generated sequence of colors to advan
 
 ## 🚀 Live Demo
 
-Play it here: [Simon Game Demo](http://127.0.0.1:5500/index.html)
+Play it here: [Simon Game Demo](https://suhani-yadav04.github.io/Simon-Says-Game-/)
 
 ---
 
@@ -63,7 +63,7 @@ end game
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/suhani-yadav04/simon-game.git
+   git clone https:https://suhani-yadav04.github.io/Simon-Says-Game-/
    cd simon-game
 
 ---
