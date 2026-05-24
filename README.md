@@ -59,12 +59,7 @@ end game
 
 ---
 
-## 🔧 How to Run Locally
 
-1. Clone the repository:
-   ```bash
-   git clone https:https://suhani-yadav04.github.io/Simon-Says-Game-/
-   cd simon-game
 
 ---
 
